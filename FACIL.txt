@@ -1,0 +1,2 @@
+tumAMA n 20
+eaee 20
